@@ -5,7 +5,7 @@ This project uses Logistic Regression to predict student dropout risk based on e
 ## Tools Used
 - Python
 - Google Colab
-- Scikit-learn
+- Kaggel 
 
 ## Model
 - Logistic Regression (Classification)
